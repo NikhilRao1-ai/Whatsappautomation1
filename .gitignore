@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# WhatsApp session
+.wwebjs_auth/
+
+# Media or logs
+*.ogg
+*.mp3
+*.mp4
+*.jpeg
+*.jpg
+*.png
+*.log
+output.txt

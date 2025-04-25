@@ -1,0 +1,1 @@
+python C:\Users\nikra\Documents\whatsapp-automation-bot\log_to_gsheet.py
